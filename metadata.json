@@ -1,0 +1,7 @@
+{
+  "name": "TCI Care v.1 - Online Maintenance Request System",
+  "description": "A comprehensive maintenance request system with Google Sheets integration, Telegram notifications, and an admin dashboard for efficient organizational support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
